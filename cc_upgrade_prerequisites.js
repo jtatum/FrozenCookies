@@ -275,7 +275,7 @@ var blacklist = [
     'buildings': []
   },
   {
-    'upgrades': [129,130,131,132,133],
+    'upgrades': [129,130,131,132,133,331,332],
     'buildings': []
   },
   {
