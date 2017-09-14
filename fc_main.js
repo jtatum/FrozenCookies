@@ -177,7 +177,18 @@ var numberFormatters = [
     ' septillion',
     ' octillion',
     ' nonillion',
-    ' decillion'
+    ' decillion',
+    ' undecillion',
+    ' duodecillion',
+    ' tredecillion',
+    ' quattuordecillion',
+    ' quindecillion',
+    ' sexdecillion',
+    ' septendecillion',
+    ' octodecillion',
+    ' novemdecillion',
+    ' vigintillion',
+    ' centillion'
   ]),
 
   formatEveryThirdPower([
@@ -191,7 +202,18 @@ var numberFormatters = [
     ' Sp',
     ' Oc',
     ' No',
-    ' De'
+    ' De',
+    ' Ud',
+    ' Dd',
+    ' Td',
+    ' Qad',
+    ' Qid',
+    ' Sxd',
+    ' Spd',
+    ' Ocd',
+    ' Nod',
+    ' Vg',
+    ' Cg'
   ]),
 
   formatEveryThirdPower([
